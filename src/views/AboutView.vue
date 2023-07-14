@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>Register Pengguna Baru</h1>
+    <h1>Register Pengguna Lama</h1>
     <p>ganti warna tema : </p>
     <v-layout>
       <v-flex>
